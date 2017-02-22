@@ -1,0 +1,25 @@
+{
+  "name": "xenpm",
+  "version": "0.1.0",
+  "description": "Xenon package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XenonApp/xenpm.git"
+  },
+  "keywords": [
+    "xenon"
+  ],
+  "author": "Andrew Stephan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XenonApp/xenpm/issues"
+  },
+  "homepage": "https://github.com/XenonApp/xenpm#readme",
+  "dependencies": {
+    "xenpm-utils": "^0.2.1"
+  }
+}
