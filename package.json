@@ -1,6 +1,6 @@
 {
   "name": "xenpm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Xenon package manager",
   "main": "index.js",
   "scripts": {
